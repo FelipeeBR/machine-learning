@@ -1,4 +1,4 @@
-# Smatphone Price Predictor
+# Smartphone Price Predictor
 
 ## Sobre
 <p align="center">
