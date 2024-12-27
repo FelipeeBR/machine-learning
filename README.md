@@ -3,12 +3,12 @@
 ## Sobre
 <p align="center">
   Um sistema simples para fazer a predição de preços de smartphones utilizando um conjunto de dados
-  do <a href="">Kaggle</a>. Neste conjunto de dados contém especificações de várias marcas de celulares da Índia, foi extraído de um site de comércio eletrônico 'Flipkart'.
+  do <a href="https://www.kaggle.com/">Kaggle</a>. Neste conjunto de dados contém especificações de várias marcas de celulares da Índia, foi extraído de um site de comércio eletrônico 'Flipkart'.
   Possui 3.114 amostras com 8 atributos.
 </p>
 
 ## Dataset
-<a href="https://www.kaggle.com/code/devsubhash/flipkart-mobiles-eda">Kaggle</a>
+<a href="https://www.kaggle.com/code/devsubhash/flipkart-mobiles-eda">Flipkart Mobiles</a>
 - Brand- Name of the Mobile Manufacturer
 - Model- Model number of the Mobile Phone
 - Color- Color of the model.
@@ -20,4 +20,5 @@
 
 
 
-  
+  ![Captura de tela 2024-12-26 223428](https://github.com/user-attachments/assets/81d9c6d1-cbb8-4c4d-9ae1-f1d77e7e3a5c)
+
